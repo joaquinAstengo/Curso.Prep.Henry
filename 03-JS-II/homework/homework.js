@@ -12,7 +12,7 @@ function obtenerMayor(x, y) {
   } else if (x === y){
     return x;
   }
-}g
+}
 
 function saludo(idioma) {
   // Devuelve un saludo en tres diferentes lenguajes:

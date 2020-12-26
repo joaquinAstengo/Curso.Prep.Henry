@@ -12,7 +12,7 @@ function obtenerMayor(x, y) {
   } else if (x === y){
     return x;
   }
-}
+}g
 
 function saludo(idioma) {
   // Devuelve un saludo en tres diferentes lenguajes:
@@ -43,6 +43,7 @@ function esDiezOCinco(numero) {
       return false;
     }
 }
+
 
 function estaEnRango(numero) {
   // Devuelve "true" si "numero" es menor que 50 y mayor que 20
@@ -83,7 +84,7 @@ function fizzBuzz(numero) {
     } else if (numero % 5 === 0){
       return "buzz"
   } else {
-    return num
+    return numero;
   } 
 }
 
